@@ -1,0 +1,19 @@
+"use strict"; //treat all js as newer version 
+// alert('hello') we are using node js not browser
+console.log(3+3); // code readability shoude be high
+
+// tc39.es jss documentetion 
+/*
+1. string
+2. numbers 
+3. boolean
+4. bigint
+5. null = standalone value
+6. undefiend = 
+7. symbol
+
+
+1.object
+
+*/
+console.log(typeof null); // type of null is a object and unfefind is undefiend
