@@ -31,3 +31,22 @@ const myfunction = fun()
 
 
 // java is dynamic or static  
+
+
+
+
+
+
+
+//==============================================
+
+//stack(premitive)   veriable copy
+//change ho skti h value
+
+
+// heap(nonpre.)     refrence orignal value
+
+// give a reffrence not a copy
+
+
+
